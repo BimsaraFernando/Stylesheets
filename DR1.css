@@ -462,7 +462,7 @@ legend {
   -ms-flex-align: center;
       align-items: center;
   font-family: 'Poppins', sans-serif;
-  background: url("../images/Search_001.png");
+  background: url("https://raw.githubusercontent.com/BimsaraFernando/Stylesheets/67f0db660f007c3190920e1c83474abf4a0bf4ef/Search_001.png");
   background-size: cover;
   background-position: center center;
   padding: 15px;
